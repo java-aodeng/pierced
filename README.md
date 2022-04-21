@@ -1,3 +1,15 @@
+```
+低调小熊猫@aodeng MINGW64 /d/code/pierced (master)
+$ cd windows_64
+./ding -config ding.cfg -subdomain aodeng666 8080
+```
+下载后，在pierced目录下执行
+```
+cd windows_64
+./ding -config ding.cfg -subdomain aodeng666 8080
+```
+
+
 # 钉钉提供的内网穿透工具
 
 本仓库及以下说明来自钉钉官方开发文档。
